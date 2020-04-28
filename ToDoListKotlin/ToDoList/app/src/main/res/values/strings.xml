@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="action_delete_all">Delete All</string>
+    <string name="SHARED_PREF_NAME">yourpackagename.sharedprefs"</string>
+    <string name="TODO_STRINGS">todostrings</string>
+    <string name="EXTRA_FOR_TODO">todo</string>
+</resources>
